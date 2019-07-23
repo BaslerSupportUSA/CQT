@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest a new feature!
+about: Suggest a new feature. We add them all the time!
 title: 'FEATURE REQUEST: '
 labels: ''
 assignees: ''

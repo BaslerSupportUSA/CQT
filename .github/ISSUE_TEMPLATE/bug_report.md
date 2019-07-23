@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Please tell us about any problems!
+about: Please tell us about any crashes, typos, etc!
 title: 'BUG REPORT: '
 labels: ''
 assignees: ''
